@@ -5,14 +5,14 @@ This project is a communication program designed to support individuals with Aut
 
 ---
 
-### Team Members
-- **Backend Developer:** Muhnnad Qatanani
-- **Frontend Developer:** Montaser Dabbas
+ Muhnnad Qatanani
 
 ---
 
 ### Presentation Link
 [View Presentation on Canva](https://www.canva.com/design/DAGcQAPKTE0/bUJSSSI2dRksj4R7kFpIFA/edit?utm_content=DAGcQAPKTE0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 [Thisis Templete](https://docs.google.com/document/d/13c69bgwypnHAVYr2JHUPOFAZgxroMYp6/edit?usp=sharing&ouid=104146422432319342204&rtpof=true&sd=true)
 
 ---
